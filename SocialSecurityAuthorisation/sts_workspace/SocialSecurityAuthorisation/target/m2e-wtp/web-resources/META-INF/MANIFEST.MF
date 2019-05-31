@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SocialSecurityAuthorisation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bhaskar Reddy
+Implementation-Vendor-Id: com.fedaral.ssa
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SocialSecurityAuthorisation
+Created-By: Maven Integration for Eclipse
+
